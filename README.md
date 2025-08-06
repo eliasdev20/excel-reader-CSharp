@@ -4,7 +4,7 @@
 C# window application that read excel files and turn into DatatTable.
 
 Screenshot of UI:
-![UI Screenshot](https://github.com/Tymursabrove/excel-reader-function/blob/main/Main.png)
+![UI Screenshot](https://github.com/eliasdev20/excel-reader-function/blob/main/Main.png)
 
 ### Built With
 
